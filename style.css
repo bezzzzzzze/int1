@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: rgba(0, 0, 0, 0.87);
+    background: white;
+}
+
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    margin-bottom: 85px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.container {
+    padding: 0 100px;
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
